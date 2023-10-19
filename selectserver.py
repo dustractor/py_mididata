@@ -12,3 +12,5 @@ def index(f_url):
     
     return "OK",200
 
+app.run()
+
